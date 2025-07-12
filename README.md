@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub" alt="Profile Banner" width="800" />
+  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub" alt="Profile Banner" width="100%" />
 </p>
 
 ## Hi there, I'm Damayantha 👋
