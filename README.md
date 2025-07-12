@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://picsum.photos/800/200"
-    alt="Random placeholder image"
+    src="https://placehold.co/800x200/888/FFF?text=Welcome+to+my+GitHub"
+    alt="Welcome to my GitHub banner"
     width="800"
   />
 </p>
+
 ## Hi there, I'm Damayantha 👋
 
 I’m a software developer, tech enthusiast and chemical & process engineer with a strong passion for creating efficient, scalable, and user-friendly applications. With expertise in full-stack development and machine learning, I love exploring innovative solutions and building impactful projects. Based in Sri Lanka, I’m always open to collaboration and new opportunities.
