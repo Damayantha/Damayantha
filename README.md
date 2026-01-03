@@ -1,27 +1,24 @@
 <p align="center">
   <img
-    src="https://placehold.co/800x200/111827/FFFFFF?text=Welcome+to+my+GitHub"
-    alt="Welcome to my GitHub banner"
-    width="800"
+    src="https://placehold.co/900x220/0f172a/ffffff?text=Welcome+to+my+GitHub+Profile"
+    alt="GitHub Profile Banner"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Damayantha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Damayantha&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi there, I'm Damayantha 👋</h1>
+<h1 align="center">Hi 👋, I'm Damayantha</h1>
 
 <p align="center">
   <b>Software Developer • Tech Enthusiast • Chemical & Process Engineer</b>
 </p>
 
 <p align="center">
-  🚀 Passionate about building efficient, scalable, and user-friendly applications  
-  <br/>
-  🤖 Interested in Full-Stack Development & Machine Learning  
-  <br/>
-  📍 Based in Sri Lanka | Open to collaboration & opportunities
+  🚀 Building scalable & efficient applications <br/>
+  🤖 Full-Stack Development & Machine Learning <br/>
+  📍 Sri Lanka | Open to collaborations
 </p>
 
 ---
@@ -65,7 +62,7 @@
 
 ### 📊 Machine Learning & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-3498DB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563eb?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
@@ -76,17 +73,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Damayantha&show_icons=true&theme=radical&cache_seconds=86400"
-    height="170"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Damayantha&show_icons=true&theme=radical&hide_border=true"
+    height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damayantha&layout=compact&theme=radical&cache_seconds=86400"
-    height="170"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damayantha&layout=compact&theme=radical&hide_border=true"
+    height="165"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Damayantha&theme=radical&hide_border=true"
+    height="165"
+  />
+</p>
 
 ---
 
@@ -94,15 +95,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tharindudamayantha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:damayanthakat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ <i>If you like my work, consider starring some repositories!</i>
+  ⭐ If you like my work, consider starring my repositories!
 </p>
