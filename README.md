@@ -73,14 +73,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Damayantha&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Damayantha&show_icons=true&theme=radical&hide_border=true&count_private=true"
     alt="GitHub Stats"
-    height="165"
+    height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damayantha&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damayantha&layout=compact&theme=radical&hide_border=true&langs_count=8"
     alt="Top Languages"
-    height="165"
+    height="180"
   />
 </p>
 
@@ -88,7 +88,6 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Damayantha&theme=radical&hide_border=true"
     alt="GitHub Streak"
-    height="165"
   />
 </p>
 
